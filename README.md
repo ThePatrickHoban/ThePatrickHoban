@@ -1,7 +1,10 @@
 <h1>👋 Hi, I'm Patrick!</h1>
 <p></p>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📖 About Me
+<p>
+         
+</p>
 
 ## 📄 Certifications
 <p>
@@ -23,7 +26,7 @@
   </a>
 </p>
 
-<h2>🌱 I’m currently learning</h2>
+## 🌱 I’m currently learning
 <p>
   <a target="_blank" href="https://partners.comptia.org/certifications/cybersecurity-analyst" style="display: inline-block;">
     <img src="https://partners.comptia.org/images/default-source/templateimages/cybersecurityanalyst-logo.jpg" width="20" alt="CompTIA CYSA+" />
@@ -46,7 +49,7 @@
   <a target="_blank" href="https://www.youtube.com/@ThePatrickHoban" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="30" alt="yPatrick Hoban | YouTube" /></a>
 </p>
 
-<h2>❤️ Support Me</h2>
+## ❤️ Support Me
 <p>
    <a href="https://www.buymeacoffee.com/PatrickHoban"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" alt="Patrick Hoban | buymeacoffee" /></a>
 </p>
