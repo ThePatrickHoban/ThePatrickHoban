@@ -3,7 +3,7 @@
 
 <h2>📄 Certifications</h2>
 <p>
-  <a target="_blank" href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" style="display: inline-block;">
+  <a href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" target="_blank" style="display: inline-block;">
     <img src="https://images.credly.com/size/200x200/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="20" alt="CompTIA Seccurity+" />
       CompTIA Security+
   </a><br>
