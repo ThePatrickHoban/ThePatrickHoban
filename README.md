@@ -1,7 +1,7 @@
-<h1>👋 Hi, I'm Patrick!</h1>h1>
+<h1>👋 Hi, I'm Patrick!</h1>
 
 <h2>📄 Certifications:</h2>
-<h2>🌱 I’m currently learning</h2>h2>
+<h2>🌱 I’m currently learning</h2>
 <h2>📫 How to reach me:</h2>
 
 
