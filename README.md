@@ -1,7 +1,10 @@
 👋 Hi, I'm Patrick!
 
 <h2>📄 Certifications:</h2>
-[CompTIA Security+ ce](https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url)<br>
+
+<h2>📫 How to reach me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/patrickhoban
 
 <!--
 **ThePatrickHoban/ThePatrickHoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
