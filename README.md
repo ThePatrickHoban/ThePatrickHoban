@@ -37,8 +37,6 @@
   </a>
 </p>
 
-</p>
-
 <h2>📫 How to reach me</h2>
 <p>
   <a target="_blank" href="https://patrickhoban.wordpress" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="30" alt="Patrick Hoban | Wordpress" /></a>
@@ -61,5 +59,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
-Had a little help by https://githubprofile.com
+Had a little help from:
+https://githubprofile.com
+https://github.com/ap6pack
 -->
