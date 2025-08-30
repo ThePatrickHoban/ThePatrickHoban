@@ -4,7 +4,6 @@
 <h2>🌱 I’m currently learning</h2>h2>
 <h2>📫 How to reach me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/patrickhoban
 
 <!--
 **ThePatrickHoban/ThePatrickHoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
