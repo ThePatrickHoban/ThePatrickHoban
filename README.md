@@ -1,7 +1,9 @@
 <h1>👋 Hi, I'm Patrick!</h1>
 <p></p>
 
-<h2>📄 Certifications</h2>
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+## 📄 Certifications
 <p>
   <a href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" target="_blank" style="display: inline-block;">
     <img src="https://images.credly.com/size/200x200/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="20" alt="CompTIA Seccurity+" />
@@ -37,7 +39,7 @@
   </a>
 </p>
 
-<h2>📫 How to reach me</h2>
+## 📫 How to reach me
 <p>
   <a target="_blank" href="https://patrickhoban.wordpress" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="30" alt="Patrick Hoban | Wordpress" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/patrickhoban" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30" alt="Patrick Hoban | LinkedIn" /></a>
@@ -60,6 +62,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Had a little help from:
+https://rahuldkjain.github.io/gh-profile-readme-generator
 https://githubprofile.com
 https://github.com/ap6pack
 -->
