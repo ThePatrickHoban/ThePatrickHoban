@@ -8,20 +8,20 @@
 
 ## 📄 Certifications
 <p>
-  <img src="https://images.credly.com/size/200x200/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="20" alt="CompTIA Seccurity+" /> &nbsp;
-  <a href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" target="_blank" style="display: inline-block;">
+  <img src="https://images.credly.com/size/200x200/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="20" alt="CompTIA Seccurity+" />
+  <a target="_blank" href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" target="_blank" style="display: inline-block;">
      CompTIA Security+
   </a><br>
   <img src="https://patrickhoban.wordpress.com/wp-content/uploads/2012/04/vcp-dcv.jpg" width="20" alt="VCP-DCV" />
   <a target="_blank" href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" style="display: inline-block;">
      VMware Certified Professional 5 Datacenter Virtualiztion
   </a><br>
-  <a target="_blank" href="https://www.credly.com/badges/b04ef781-1bdc-4584-95e6-0dfdc36d42d7/public_url" style="display: inline-block;">
-    <img src="https://images.credly.com/size/200x200/images/43ee30bc-78c5-4704-942c-337c6ee7abf9/blob" width="20" alt="VCP-DCV" />
+  <img src="https://images.credly.com/size/200x200/images/43ee30bc-78c5-4704-942c-337c6ee7abf9/blob" width="20" alt="VCP-DCV" />
+  <a target="_blank" href="https://www.credly.com/badges/b04ef781-1bdc-4584-95e6-0dfdc36d42d7/public_url" style="display: inline-block;">  
       Cisco Certified Cybersecurity Associate
   </a><br>
+  <img src="https://images.credly.com/size/200x200/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="20" alt="VCP-DCV" />
   <a target="_blank" href="https://www.credly.com/badges/9e871524-d440-454c-8ccc-2228e47325e5/public_url" style="display: inline-block;">
-    <img src="https://images.credly.com/size/200x200/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="20" alt="VCP-DCV" />
       Microsoft Certified: Azure Fundamentals
   </a>
 </p>
