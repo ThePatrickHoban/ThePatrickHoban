@@ -28,7 +28,7 @@
 
 ## 🌱 I’m currently learning
 <p>
-  <img src="https://partners.comptia.org/images/default-source/templateimages/cybersecurityanalyst-logo.jpg" width="20" alt="CompTIA CYSA+" />
+  <img src="https://images.cmp.optimizely.com/842acf9ab71111efac96d615e91762a5?width=100&height=100&w=640&q=90" width="20" alt="CompTIA CYSA+" />
   <a target="_blank" href="https://partners.comptia.org/certifications/cybersecurity-analyst" style="display: inline-block;">
     CompTIA CYSA+
   </a><br>
