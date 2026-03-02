@@ -18,11 +18,11 @@
   </a><br>
   <img src="https://images.credly.com/size/200x200/images/43ee30bc-78c5-4704-942c-337c6ee7abf9/blob" width="20" alt="VCP-DCV" />
   <a target="_blank" href="https://www.credly.com/badges/b04ef781-1bdc-4584-95e6-0dfdc36d42d7/public_url" style="display: inline-block;">  
-      Cisco Certified Cybersecurity Associate
+     Cisco Certified Cybersecurity Associate
   </a><br>
   <img src="https://images.credly.com/size/200x200/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="20" alt="VCP-DCV" />
   <a target="_blank" href="https://www.credly.com/badges/9e871524-d440-454c-8ccc-2228e47325e5/public_url" style="display: inline-block;">
-      Microsoft Certified: Azure Fundamentals
+     Microsoft Certified: Azure Fundamentals
   </a>
 </p>
 
