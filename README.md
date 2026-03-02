@@ -28,16 +28,16 @@
 
 ## 🌱 I’m currently learning
 <p>
+  <img src="https://partners.comptia.org/images/default-source/templateimages/cybersecurityanalyst-logo.jpg" width="20" alt="CompTIA CYSA+" />
   <a target="_blank" href="https://partners.comptia.org/certifications/cybersecurity-analyst" style="display: inline-block;">
-    <img src="https://partners.comptia.org/images/default-source/templateimages/cybersecurityanalyst-logo.jpg" width="20" alt="CompTIA CYSA+" />
     CompTIA CYSA+
   </a><br>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="20" alt="Kubernetes" />
   <a target="_blank" href="https://kubernetes.io" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="20" alt="Kubernetes" />
     Kubernetes
   </a><br>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="20" alt="Microsoft Azure" />
   <a target="_blank" href="https://learn.microsoft.com/en-us/training/azure" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="20" alt="Microsoft Azure" />
     Microsoft Azure
   </a>
 </p>
