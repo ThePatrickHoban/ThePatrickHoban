@@ -16,7 +16,7 @@
   <a target="_blank" href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" style="display: inline-block;">
      VMware Certified Professional 5 Datacenter Virtualiztion
   </a><br>
-  <img src="https://www.credly.com/badges/b04ef781-1bdc-4584-95e6-0dfdc36d42d7/public_url" width="20" alt="" />
+  <img src="https://images.credly.com/size/680x680/images/99c33c3f-ab7e-46dc-9490-01837434c649/blob" width="20" alt="" />
   <a target="_blank" href="https://www.credly.com/badges/b04ef781-1bdc-4584-95e6-0dfdc36d42d7/public_url" style="display: inline-block;">
      Cisco Certified Cybersecurity Associate
   </a><br>
