@@ -44,9 +44,9 @@
 
 ## 📫 How to reach me
 <p>
-  <a target="_blank" href="https://patrickhoban.wordpress" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="30" alt="Patrick Hoban | Wordpress" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/patrickhoban" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30" alt="Patrick Hoban | LinkedIn" /></a>
-  <a target="_blank" href="https://www.youtube.com/@ThePatrickHoban" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="30" alt="yPatrick Hoban | YouTube" /></a>
+  <a href="https://patrickhoban.wordpress.com"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="30" alt="Patrick Hoban | Wordpress" /></a>
+  <a href="https://www.linkedin.com/in/patrickhoban"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30" alt="Patrick Hoban | LinkedIn" /></a>
+  <a href="https://www.youtube.com/@ThePatrickHoban"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="30" alt="Patrick Hoban | YouTube" /></a>
 </p>
 
 ## ❤️ Support Me
