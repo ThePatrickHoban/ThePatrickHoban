@@ -9,7 +9,7 @@
 ## 📄 Certifications
 <p>
   <img src="https://images.credly.com/size/200x200/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="20" alt="CompTIA Seccurity+" />
-  <a target="_blank" href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" target="_blank" style="display: inline-block;">
+  <a href="https://www.credly.com/badges/817b967b-e925-46be-9646-b8fd7109d855/public_url" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
      CompTIA Security+
   </a><br>
   <img src="https://patrickhoban.wordpress.com/wp-content/uploads/2012/04/vcp-dcv.jpg" width="20" alt="VCP-DCV" />
