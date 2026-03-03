@@ -44,16 +44,22 @@
 
 ## 📫 How to reach me
 <p>
-  <a href="https://patrickhoban.wordpress.com"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="30" alt="Patrick Hoban | Wordpress" /></a>
-  <a href="https://www.linkedin.com/in/patrickhoban"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30" alt="Patrick Hoban | LinkedIn" /></a>
-  <a href="https://www.youtube.com/@ThePatrickHoban"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="30" alt="Patrick Hoban | YouTube" /></a>
+  <a href="https://patrickhoban.wordpress.com">
+     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="30" alt="Patrick Hoban | Wordpress" />
+  </a>
+  <a href="https://www.linkedin.com/in/patrickhoban">
+     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30" alt="Patrick Hoban | LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@ThePatrickHoban">
+     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="30" alt="Patrick Hoban | YouTube" />
+  </a>
 </p>
 
 ## ❤️ Support Me
 <p>
    <a href="https://www.buymeacoffee.com/PatrickHoban"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" alt="Patrick Hoban | buymeacoffee" /></a>
 </p>
-[Link Text](https://example.com)
+
 <!--
 **ThePatrickHoban/ThePatrickHoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
